@@ -3,4 +3,5 @@ p {
   border: 1px solid darkred;
   background-color: #ff959c;
   color: darkred;
+  border-radius: 10px;
 }

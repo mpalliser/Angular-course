@@ -3,4 +3,6 @@ p {
   border: 1px solid forestgreen;
   background-color: lightgreen;
   color: forestgreen;
+  border-radius: 10px;
+
 }
